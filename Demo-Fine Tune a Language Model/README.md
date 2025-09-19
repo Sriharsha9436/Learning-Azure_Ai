@@ -39,7 +39,7 @@ Welcome to this hands-on repository showcasing how to fine-tune a language model
 ### 4️⃣ **Monitor Progress**
 - Tracked status and logs in the Azure AI Studio dashboard.
 - Status moved from *Fine-tuning* to *Completed*.
-- See [`finetune_logs.txt`](./finetune_logs.txt) for a mock log of all steps.
+- See [`finetune_logs.txt`](./Results/fine_tuning_logs.txt) for a mock log of all steps.
 
 ### 5️⃣ **Deploy Fine-Tuned Model**
 - Upon completion, the fine-tuned model appeared in **Deployments**.
